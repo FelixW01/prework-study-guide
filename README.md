@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-To view all the contents of this webesite, right click on the page and click inspect. The console log holds all the information connected to the web page. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
+To view all the contents of this website, right click on the page and click inspect. The console log holds all the information connected to the web page. There you will see a list of topics we learned from the prework along with a suggestion on which topic to study first.
 
 ## License
 
